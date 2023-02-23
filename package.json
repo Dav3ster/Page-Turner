@@ -16,7 +16,6 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "firebase": "^9.17.1"
+    "bcryptjs": "^2.4.3"
   }
 }
